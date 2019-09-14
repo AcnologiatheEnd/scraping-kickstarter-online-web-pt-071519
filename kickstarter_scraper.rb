@@ -18,7 +18,6 @@ def create_project_hash
     }
   end
   projects
-  binding
 end
 
 create_project_hash
